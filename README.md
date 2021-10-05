@@ -1,3 +1,5 @@
-# myTemplate
+# TAiloringHelps
 
-# This template is a framework to separate services (outsourced functions) and configurations (e.g. read in json and generate parameters from it) from the main
+In the end of this project you will be able to organize your patterns, fabrics and other accessories. 
+
+I will create a database where you can add your own things and matching between fabrics and patterns will be possible. In addition, materials that are still missing will be displayed.
