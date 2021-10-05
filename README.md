@@ -1,4 +1,4 @@
-# TAiloringHelps
+# TailoringHelps
 
 In the end of this project you will be able to organize your patterns, fabrics and other accessories. 
 
